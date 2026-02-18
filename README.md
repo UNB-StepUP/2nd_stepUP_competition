@@ -3,11 +3,11 @@
 This repository contains example code for the 2nd International StepUP Competition for Biometric Footstep Recognition, hosted as part of the IEEE International Joint Conference on Biometrics (IJCB) 2026.
 
 <p align=center>
-<img src="example_footstep_pair.png" alt="footstep pair"/>
+<img src="example_footstep_pair.png" alt="footstep pair" width = 550/>
 
 # Dataset Download
 
-The competition datasets can be downloaded from OneDrive [here]((https://unbcloud-my.sharepoint.com/:f:/g/personal/rlarracy_unb_ca/IgA6h0zsfsSoSq9LOdzBypcjAVcgJqH5y9gT-n2HZxuz0pA?e=c2moMw)).
+The competition datasets can be downloaded from OneDrive [here](https://unbcloud-my.sharepoint.com/:f:/g/personal/rlarracy_unb_ca/IgA6h0zsfsSoSq9LOdzBypcjAVcgJqH5y9gT-n2HZxuz0pA?e=c2moMw).
 
 Download and extract the dataset to a known location on your computer. You will need to specify the folder path to the dataset when running this example code.
 
