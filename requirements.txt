@@ -1,0 +1,10 @@
+numpy
+pandas
+torch
+torch-vision
+pytorch-metric-learning
+scikit-learn
+umap
+matplotlib
+jupyter
+scipy
