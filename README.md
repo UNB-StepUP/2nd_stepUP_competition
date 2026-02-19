@@ -3,7 +3,7 @@
 This repository contains example code for the 2nd International StepUP Competition for Biometric Footstep Recognition, hosted as part of the IEEE International Joint Conference on Biometrics (IJCB) 2026.
 
 <p align=center>
-<img src="example_footstep_pair.png" alt="footstep pair" width = 550/>
+<img src="assets/example_footstep_pair.png" alt="footstep pair" width = 550/>
 
 # Dataset Download
 
@@ -34,7 +34,7 @@ You are free to use and modify this code as needed during the competition.
 
 # Submitting your Results on CodaBench
 
-All competition submissions must be made on [CodaBench](https://www.codabench.org/competitions/13840/). Your submission should be packaged as a single zipfile containing two items:
+All competition submissions must be made on [CodaBench](https://www.codabench.org/competitions/13840/). Your submission should be packaged as a single zip file containing two items:
 
 1. `scores.txt` - which contains a similarity score for each probe set test case, and 
 2. `threshold.txt` - which contains a single numeric decision threshold.
