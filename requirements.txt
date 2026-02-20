@@ -4,7 +4,7 @@ torch
 torch-vision
 pytorch-metric-learning
 scikit-learn
-umap
+umap-learn
 matplotlib
 jupyter
 scipy
